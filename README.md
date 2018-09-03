@@ -4,8 +4,6 @@ Udacity [Self-Driving Car Engineer Nanodegree](https://www.udacity.com/course/se
 
 ![Vehicle Changing Lanes](Driving_Image.png)
 
-[Click here](https://www.youtube.com/watch?v=34YczKN08eo&feature=youtu.be) for a video.
-
 ## Overview
 
 This project simulates a virtual highway with numerous cars running at speeds +- 10 mph of a 50 mph speed limit. 
